@@ -108,7 +108,7 @@ const Settings = () => {
                     padding: "5px 30px",
                     boxShadow: "rgba(100, 100, 111, 0.2) 0px 10px 29px 5px;"
                 }}>
-                    Submit
+                    Сохранить
                 </Button>
             </Form.Item>
         </Form>
