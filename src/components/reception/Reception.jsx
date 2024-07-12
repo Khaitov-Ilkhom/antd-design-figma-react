@@ -1,9 +1,10 @@
 import React from 'react'
+import Settings from "../settings/Settings.jsx";
 
 const Reception = () => {
     return (
         <div>
-            <h1>Прием и размещение</h1>
+            <Settings/>
         </div>
     )
 }

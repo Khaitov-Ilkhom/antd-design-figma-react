@@ -1,9 +1,10 @@
 import React from 'react'
+import Settings from "../settings/Settings.jsx";
 
 const FinancialAnalysis = () => {
     return (
         <div>
-            <h1>Финансовая аналитика</h1>
+            <Settings/>
         </div>
     )
 }

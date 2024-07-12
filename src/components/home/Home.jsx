@@ -1,8 +1,11 @@
 import React from 'react'
+import Settings from "../settings/Settings.jsx";
 
 const Home = () => {
     return (
-        <div><h1>Шахматка</h1></div>
+        <>
+            <Settings/>
+        </>
     )
 }
 export default Home

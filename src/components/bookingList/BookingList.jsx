@@ -1,10 +1,13 @@
 import React from 'react'
+import Settings from "../settings/Settings.jsx";
 
 const BookingList = () => {
+
+
     return (
-        <div>
-            <h1>Список броней</h1>
-        </div>
-    )
+        <>
+            <Settings/>
+        </>
+    );
 }
 export default BookingList

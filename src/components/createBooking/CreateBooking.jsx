@@ -1,9 +1,10 @@
 import React from 'react'
+import Settings from "../settings/Settings.jsx";
 
 const CreateBooking = () => {
     return (
         <div>
-            <h1>Создать бронь</h1>
+            <Settings/>
         </div>
     )
 }

@@ -1,9 +1,10 @@
 import React from 'react'
+import Settings from "../settings/Settings.jsx";
 
 const Reports = () => {
     return (
         <div>
-            <h1>Отчёты</h1>
+            <Settings/>
         </div>
     )
 }
